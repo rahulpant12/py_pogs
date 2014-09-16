@@ -8,3 +8,4 @@ for i in range(len(item)-1):
             item[j+1]=temp
 
 print item
+print
